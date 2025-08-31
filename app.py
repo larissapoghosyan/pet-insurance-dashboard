@@ -12,6 +12,12 @@ from statsmodels.stats.anova import anova_lm
 from scipy.stats import zscore
 
 
+st.set_page_config(
+    layout="wide",
+    page_title="Pet-Sight",
+    page_icon="🐾",
+)
+
 # Load your cleaned CSV or query DB
 df = pd.read_csv("data/cleaned_pet_proactive_mock_data.csv")
 
