@@ -1,0 +1,701 @@
+pet_id,species,age,weight_kg,condition,treatment,visit_date,cost_gbp
+P0001,Dog,6.0,10.6,Arthritis,Dental Cleaning,2023-04-08,277.31
+P0002,Cat,,2.1,,Surgery,2023-11-24,164.88
+P0003,Dog,,27.6,Gastroenteritis,Diet Consultation,2023-01-01,
+P0004,Dog,1.0,16.9,Allergy,Vaccination,2023-09-20,
+P0005,Dog,,26.7,Tumor,Vaccination,2023-12-21,
+P0006,Bird,16.0,1.1,Allergy,Physiotherapy,2023-10-09,120.23
+P0007,Dog,14.0,14.1,Dental Disease,Diet Consultation,2023-06-09,419.85
+P0008,Cat,,2.2,Allergy,Therapy,2023-02-03,196.33
+P0009,Bird,6.0,,Diabetes,Therapy,2023-06-20,253.33
+P0010,Rabbit,3.0,4.8,Arthritis,Physiotherapy,2023-09-04,299.7
+P0011,Bird,,0.5,Diabetes,,2023-05-27,316.88
+P0012,Rabbit,7.0,,Gastroenteritis,Vaccination,2023-12-03,323.38
+P0013,Dog,5.0,5.2,,Vaccination,2023-05-03,
+P0014,Cat,17.0,,Diabetes,Diet Consultation,2023-05-15,232.8
+P0015,Rabbit,7.0,11.1,Dental Disease,Therapy,2023-06-07,317.83
+P0016,Rabbit,,25.2,,Surgery,2023-10-21,21.78
+P0017,Cat,12.0,,Tumor,Vaccination,2023-03-15,248.61
+P0018,Bird,6.0,0.9,Obesity,,2023-04-22,142.24
+P0019,Rabbit,7.0,12.2,Arthritis,Vaccination,2023-01-26,339.69
+P0020,Rabbit,4.0,5.7,Skin Infection,Dental Cleaning,2023-02-07,289.56
+P0021,Rabbit,8.0,,Allergy,Physiotherapy,2023-07-21,364.95
+P0022,Bird,,1.4,Dental Disease,Dental Cleaning,2023-03-08,342.5
+P0023,Rabbit,2.0,17.8,,Diet Consultation,2023-10-13,44.33
+P0024,Rabbit,0.0,3.4,Allergy,Check-up,2023-09-16,59.94
+P0025,Dog,8.0,21.3,Arthritis,Surgery,2023-03-21,107.77
+P0026,Cat,18.0,6.7,,Diet Consultation,2023-10-03,213.06
+P0027,Bird,3.0,1.8,Skin Infection,Physiotherapy,2023-09-09,155.15
+P0028,Dog,12.0,3.7,,Surgery,2023-11-18,228.55
+P0029,Rabbit,6.0,,,Therapy,2023-02-10,124.74
+P0030,Bird,12.0,0.7,Dental Disease,Physiotherapy,2023-01-24,184.21
+P0031,Rabbit,19.0,,Tumor,Check-up,2023-09-04,214.56
+P0032,Rabbit,6.0,11.7,,,2023-10-07,161.27
+P0033,Cat,19.0,7.7,Ear Infection,Check-up,2023-09-25,2.41
+P0034,Dog,8.0,6.8,Gastroenteritis,Therapy,2023-08-01,491.77
+P0035,Dog,14.0,13.8,Ear Infection,Dental Cleaning,2023-04-02,127.53
+P0036,Cat,19.0,,Gastroenteritis,Surgery,2023-02-24,238.63
+P0037,Bird,6.0,1.0,Diabetes,,2023-03-05,188.83
+P0038,Bird,16.0,2.0,Tumor,Check-up,2023-05-17,133.74
+P0039,Bird,0.0,0.6,Allergy,,2023-12-23,187.38
+P0040,Cat,11.0,19.7,,Dental Cleaning,2023-07-22,90.99
+P0041,Rabbit,,,Hip Dysplasia,,2023-08-04,315.97
+P0042,Cat,4.0,15.2,Allergy,Surgery,2023-06-01,408.85
+P0043,Cat,15.0,0.5,Gastroenteritis,Vaccination,2023-01-03,256.73
+P0044,Dog,15.0,15.8,Allergy,Surgery,2023-01-28,124.48
+P0045,Rabbit,18.0,11.1,Diabetes,,2023-04-09,290.82
+P0046,Bird,6.0,,Allergy,,2023-03-24,62.09
+P0047,Bird,0.0,1.4,Allergy,Physiotherapy,2023-07-07,432.49
+P0048,Dog,17.0,21.5,Diabetes,Diet Consultation,2023-06-14,15.37
+P0049,Bird,19.0,1.1,Hip Dysplasia,Medication,2023-11-21,151.33
+P0050,Dog,4.0,13.4,Arthritis,Diet Consultation,2023-12-11,177.96
+P0051,Dog,18.0,16.4,Allergy,Vaccination,2023-04-18,278.29
+P0052,Bird,0.0,1.3,Dental Disease,Diet Consultation,2023-03-09,244.55
+P0053,Bird,7.0,1.6,Allergy,Surgery,2023-08-26,328.1
+P0054,Dog,2.0,29.3,Arthritis,,2023-01-03,178.55
+P0055,Cat,8.0,,Dental Disease,Diet Consultation,2023-08-16,0.49
+P0056,Cat,7.0,3.8,Skin Infection,Medication,2023-03-13,263.67
+P0057,Dog,11.0,22.5,Skin Infection,Dental Cleaning,2023-08-10,541.0
+P0058,Bird,5.0,2.0,,,2023-11-23,222.05
+P0059,Bird,7.0,1.3,Dental Disease,Vaccination,2023-05-07,201.95
+P0060,Dog,0.0,26.6,Gastroenteritis,,2023-01-24,293.85
+P0061,Rabbit,2.0,,Arthritis,Medication,2023-10-16,198.26
+P0062,Cat,5.0,5.5,Arthritis,,2023-02-28,181.38
+P0063,Cat,2.0,9.9,Diabetes,Surgery,2023-11-28,57.57
+P0064,Cat,2.0,,Skin Infection,Surgery,2023-10-08,232.11
+P0065,Dog,2.0,5.0,Gastroenteritis,Surgery,2023-07-22,67.42
+P0066,Rabbit,,5.2,Obesity,Vaccination,2023-11-23,4.15
+P0067,Rabbit,16.0,,Allergy,Dental Cleaning,2023-07-05,267.47
+P0068,Rabbit,2.0,18.2,Hip Dysplasia,Therapy,2023-02-01,298.52
+P0069,Bird,6.0,1.1,Gastroenteritis,Surgery,2023-02-18,15.39
+P0070,Cat,0.0,2.7,Tumor,Dental Cleaning,2023-03-12,96.92
+P0071,Dog,18.0,5.8,Allergy,Therapy,2023-05-06,25.12
+P0072,Bird,,1.4,Tumor,Dental Cleaning,2023-10-26,62.99
+P0073,Dog,,11.4,,,2023-05-22,
+P0074,Dog,5.0,15.6,Dental Disease,Dental Cleaning,2023-02-04,253.16
+P0075,Cat,7.0,,Obesity,Dental Cleaning,2023-10-07,92.7
+P0076,Rabbit,3.0,9.4,Allergy,Dental Cleaning,2023-09-16,141.29
+P0077,Rabbit,2.0,7.5,Arthritis,Surgery,2023-11-14,404.52
+P0078,Rabbit,9.0,10.6,Arthritis,Medication,2023-06-25,357.2
+P0079,Cat,,,,Dental Cleaning,2023-03-24,90.1
+P0080,Bird,8.0,1.4,Tumor,Diet Consultation,2023-09-01,113.26
+P0081,Dog,0.0,2.6,Diabetes,Check-up,2023-09-02,148.53
+P0082,Rabbit,7.0,5.5,Gastroenteritis,,2023-03-14,286.68
+P0083,Cat,4.0,,Arthritis,Dental Cleaning,2023-06-26,476.56
+P0084,Dog,15.0,9.6,Ear Infection,Vaccination,2023-11-08,160.49
+P0085,Dog,13.0,10.6,Ear Infection,,2023-07-20,364.52
+P0086,Cat,4.0,17.1,Allergy,Check-up,2023-03-14,14.52
+P0087,Dog,1.0,15.0,Dental Disease,Therapy,2023-07-26,313.39
+P0088,Cat,12.0,2.4,Obesity,Check-up,2023-12-04,209.13
+P0089,Bird,19.0,1.2,Arthritis,Physiotherapy,2023-04-07,437.9
+P0090,Bird,18.0,1.7,Ear Infection,Dental Cleaning,2023-04-08,14.33
+P0091,Dog,0.0,17.2,,Vaccination,2023-07-11,106.6
+P0092,Rabbit,7.0,16.4,Diabetes,Dental Cleaning,2023-06-21,52.82
+P0093,Bird,18.0,0.6,,,2023-06-01,253.55
+P0094,Dog,3.0,9.5,Obesity,Check-up,2023-10-09,267.3
+P0095,Dog,4.0,14.4,Diabetes,Diet Consultation,2023-06-24,312.09
+P0096,Rabbit,15.0,8.9,Skin Infection,,2023-02-13,144.84
+P0097,Cat,,,Obesity,Medication,2023-12-14,432.93
+P0098,Dog,8.0,11.5,Tumor,,2023-11-24,294.93
+P0099,Cat,,,Ear Infection,Diet Consultation,2023-02-22,111.55
+P0100,Rabbit,8.0,1.6,Gastroenteritis,Therapy,2023-11-28,138.31
+P0101,Dog,19.0,22.9,,Dental Cleaning,2023-09-10,486.85
+P0102,Bird,2.0,1.2,Ear Infection,Diet Consultation,2023-12-10,359.78
+P0103,Cat,,10.2,Allergy,Diet Consultation,2023-11-13,300.06
+P0104,Cat,12.0,6.6,Gastroenteritis,Dental Cleaning,2023-07-18,451.29
+P0105,Dog,14.0,18.3,Obesity,Dental Cleaning,2023-04-14,115.44
+P0106,Rabbit,5.0,6.0,Hip Dysplasia,Physiotherapy,2023-08-22,123.96
+P0107,Cat,17.0,,Tumor,Physiotherapy,2023-12-06,211.85
+P0108,Dog,12.0,24.2,Obesity,,2023-11-21,128.39
+P0109,Rabbit,12.0,,Diabetes,Vaccination,2023-11-10,404.02
+P0110,Cat,11.0,,Allergy,Check-up,2023-01-02,435.5
+P0111,Cat,6.0,,Hip Dysplasia,Surgery,2023-08-14,136.67
+P0112,Cat,19.0,14.2,,Diet Consultation,2023-08-13,315.63
+P0113,Cat,16.0,4.5,Dental Disease,Medication,2023-02-25,73.38
+P0114,Bird,11.0,2.0,Allergy,Check-up,2023-12-17,
+P0115,Bird,,2.0,Arthritis,,2023-04-28,289.86
+P0116,Dog,2.0,11.2,Hip Dysplasia,Check-up,2023-08-22,232.58
+P0117,Rabbit,16.0,0.5,Hip Dysplasia,,2023-07-27,479.0
+P0118,Bird,,0.8,Dental Disease,Physiotherapy,2023-08-09,255.04
+P0119,Cat,15.0,5.7,,Dental Cleaning,2023-09-16,183.36
+P0120,Cat,7.0,11.8,Obesity,Physiotherapy,2023-02-23,269.41
+P0121,Rabbit,17.0,,Allergy,Dental Cleaning,2023-06-11,80.26
+P0122,Dog,,4.3,Dental Disease,Check-up,2023-04-13,459.16
+P0123,Cat,12.0,,,Vaccination,2023-02-14,1.97
+P0124,Bird,17.0,1.1,Ear Infection,,2023-08-14,474.72
+P0125,Dog,0.0,14.1,Allergy,Diet Consultation,2023-07-25,429.07
+P0126,Dog,10.0,1.3,Gastroenteritis,Diet Consultation,2023-08-01,403.08
+P0127,Rabbit,16.0,3.1,Obesity,Diet Consultation,2023-07-18,385.67
+P0128,Cat,0.0,6.7,Hip Dysplasia,Vaccination,2023-05-14,486.73
+P0129,Bird,2.0,1.2,Arthritis,Diet Consultation,2023-06-22,132.49
+P0130,Bird,13.0,0.6,,Check-up,2023-08-05,293.43
+P0131,Dog,3.0,20.7,Skin Infection,Medication,2023-02-21,31.3
+P0132,Bird,7.0,,Dental Disease,Physiotherapy,2023-03-02,321.73
+P0133,Rabbit,17.0,1.9,Skin Infection,Therapy,2023-04-15,225.5
+P0134,Rabbit,16.0,13.2,Ear Infection,Diet Consultation,2023-05-25,296.81
+P0135,Bird,18.0,1.8,Obesity,Surgery,2023-08-01,405.29
+P0136,Dog,1.0,23.5,Ear Infection,Vaccination,2023-11-03,63.81
+P0137,Dog,18.0,12.8,Arthritis,Vaccination,2023-04-27,307.63
+P0138,Dog,14.0,28.0,Gastroenteritis,Check-up,2023-04-05,7.02
+P0139,Bird,4.0,1.6,,Surgery,2023-10-07,381.82
+P0140,Bird,19.0,1.0,,Dental Cleaning,2023-06-06,178.39
+P0141,Dog,,5.8,Dental Disease,Dental Cleaning,2023-02-19,109.66
+P0142,Dog,10.0,17.9,Obesity,Diet Consultation,2023-07-23,59.02
+P0143,Cat,2.0,4.3,Diabetes,Vaccination,2023-02-23,361.05
+P0144,Rabbit,18.0,,,Surgery,2023-10-26,116.15
+P0145,Dog,0.0,,Ear Infection,,2023-07-22,276.94
+P0146,Rabbit,16.0,19.7,Diabetes,,2023-11-11,
+P0147,Dog,14.0,9.4,Skin Infection,Physiotherapy,2023-02-14,232.1
+P0148,Rabbit,15.0,3.1,,Physiotherapy,2023-12-05,166.85
+P0149,Bird,16.0,1.2,Dental Disease,,2023-11-09,203.56
+P0150,Bird,13.0,1.3,Hip Dysplasia,Diet Consultation,2023-12-19,247.35
+P0151,Rabbit,1.0,10.8,Ear Infection,Vaccination,2023-02-09,51.81
+P0152,Bird,13.0,1.5,Allergy,Physiotherapy,2023-10-20,24.53
+P0153,Bird,,0.8,Ear Infection,Medication,2023-08-28,
+P0154,Rabbit,16.0,,Dental Disease,Physiotherapy,2023-04-12,37.77
+P0155,Rabbit,16.0,1.2,Ear Infection,Dental Cleaning,2023-10-23,116.6
+P0156,Rabbit,8.0,,Tumor,Medication,2023-09-07,199.51
+P0157,Dog,1.0,31.7,Allergy,Diet Consultation,2023-08-18,408.64
+P0158,Cat,9.0,,,Physiotherapy,2023-11-23,7.42
+P0159,Bird,1.0,0.6,Hip Dysplasia,Medication,2023-02-10,111.87
+P0160,Cat,,3.8,Skin Infection,Vaccination,2023-05-22,102.4
+P0161,Rabbit,,,Hip Dysplasia,,2023-09-12,
+P0162,Bird,,0.6,,,2023-06-12,221.78
+P0163,Bird,18.0,1.7,Obesity,Dental Cleaning,2023-05-08,242.9
+P0164,Dog,12.0,29.3,,Vaccination,2023-06-04,100.61
+P0165,Cat,18.0,8.6,Allergy,Vaccination,2023-12-16,296.09
+P0166,Rabbit,0.0,,,,2023-10-10,28.64
+P0167,Dog,10.0,21.4,Allergy,Dental Cleaning,2023-04-12,170.31
+P0168,Cat,5.0,7.8,Obesity,Medication,2023-12-18,70.94
+P0169,Cat,11.0,0.9,Obesity,Medication,2023-01-18,293.99
+P0170,Rabbit,4.0,,,Check-up,2023-11-28,558.48
+P0171,Bird,16.0,1.7,Diabetes,Medication,2023-10-10,109.34
+P0172,Bird,17.0,,Hip Dysplasia,Physiotherapy,2023-06-06,225.46
+P0173,Dog,2.0,15.7,Obesity,Physiotherapy,2023-02-27,
+P0174,Dog,7.0,17.8,Skin Infection,Physiotherapy,2023-02-19,279.79
+P0175,Dog,2.0,20.6,Dental Disease,Check-up,2023-10-10,259.17
+P0176,Dog,3.0,11.6,Allergy,Surgery,2023-09-25,323.04
+P0177,Bird,7.0,0.9,Gastroenteritis,Vaccination,2023-09-13,56.09
+P0178,Bird,18.0,1.3,Hip Dysplasia,Dental Cleaning,2023-10-14,148.95
+P0179,Rabbit,16.0,16.1,Gastroenteritis,Medication,2023-10-24,164.12
+P0180,Dog,7.0,21.6,Allergy,Vaccination,2023-05-22,236.3
+P0181,Dog,2.0,2.8,Dental Disease,Vaccination,2023-03-18,21.79
+P0182,Dog,14.0,24.2,Dental Disease,Medication,2023-07-15,198.09
+P0183,Bird,3.0,2.0,Obesity,Medication,2023-04-10,358.16
+P0184,Rabbit,4.0,,,Physiotherapy,2023-02-22,258.18
+P0185,Cat,1.0,7.8,Obesity,Vaccination,2023-07-04,250.05
+P0186,Cat,5.0,,,Check-up,2023-05-27,301.37
+P0187,Cat,19.0,14.3,Diabetes,Medication,2023-03-26,133.3
+P0188,Rabbit,14.0,15.3,Gastroenteritis,Dental Cleaning,2023-08-04,
+P0189,Bird,18.0,1.4,,Dental Cleaning,2023-12-13,44.83
+P0190,Rabbit,10.0,6.2,Tumor,,2023-08-15,183.2
+P0191,Dog,,17.6,Gastroenteritis,Medication,2023-07-24,298.15
+P0192,Rabbit,12.0,3.6,Gastroenteritis,Dental Cleaning,2023-01-03,330.18
+P0193,Cat,11.0,,,Medication,2023-11-27,467.32
+P0194,Rabbit,7.0,8.7,Gastroenteritis,Medication,2023-03-16,380.75
+P0195,Bird,8.0,0.9,Obesity,Check-up,2023-10-14,300.86
+P0196,Bird,7.0,1.7,Diabetes,Physiotherapy,2023-06-14,105.89
+P0197,Rabbit,,,Ear Infection,Surgery,2023-03-11,580.8
+P0198,Bird,8.0,1.5,,Physiotherapy,2023-05-22,278.59
+P0199,Bird,,1.2,Tumor,Medication,2023-08-03,168.5
+P0200,Rabbit,5.0,,Obesity,Therapy,2023-02-25,6.51
+P0201,Bird,16.0,1.2,Tumor,Medication,2023-11-28,
+P0202,Bird,18.0,0.6,Skin Infection,Medication,2023-04-17,
+P0203,Rabbit,0.0,6.2,Gastroenteritis,Physiotherapy,2023-11-15,362.07
+P0204,Dog,17.0,,Allergy,Dental Cleaning,2023-09-05,47.42
+P0205,Rabbit,16.0,8.1,Hip Dysplasia,Physiotherapy,2023-02-01,366.1
+P0206,Cat,7.0,5.4,,Check-up,2023-05-18,586.0
+P0207,Dog,,15.5,Tumor,Diet Consultation,2023-02-08,402.46
+P0208,Dog,16.0,12.4,Hip Dysplasia,Surgery,2023-11-27,195.09
+P0209,Cat,17.0,,Hip Dysplasia,Dental Cleaning,2023-09-23,356.0
+P0210,Rabbit,,,Skin Infection,Physiotherapy,2023-08-08,111.76
+P0211,Bird,3.0,,Tumor,Check-up,2023-07-07,13.9
+P0212,Cat,6.0,,Diabetes,Dental Cleaning,2023-07-11,338.25
+P0213,Rabbit,1.0,1.1,Arthritis,Dental Cleaning,2023-12-10,189.56
+P0214,Bird,17.0,1.7,Dental Disease,Physiotherapy,2023-09-16,383.33
+P0215,Rabbit,,,Ear Infection,,2023-09-13,214.81
+P0216,Bird,0.0,1.2,Ear Infection,Vaccination,2023-12-08,180.45
+P0217,Bird,2.0,0.6,Allergy,Diet Consultation,2023-01-11,306.64
+P0218,Bird,3.0,1.9,,Diet Consultation,2023-07-22,266.64
+P0219,Cat,13.0,8.7,Hip Dysplasia,Medication,2023-03-17,
+P0220,Rabbit,6.0,9.5,Diabetes,Physiotherapy,2023-02-17,270.02
+P0221,Bird,18.0,1.2,Arthritis,Check-up,2023-07-28,338.6
+P0222,Cat,19.0,2.5,Diabetes,Physiotherapy,2023-05-11,350.77
+P0223,Bird,,0.6,,Surgery,2023-06-28,123.88
+P0224,Bird,5.0,1.6,Ear Infection,Physiotherapy,2023-09-02,342.46
+P0225,Dog,,12.1,Allergy,Dental Cleaning,2023-04-24,146.75
+P0226,Dog,13.0,17.1,Skin Infection,Surgery,2023-11-23,0.14
+P0227,Dog,16.0,14.0,Hip Dysplasia,Check-up,2023-12-10,246.17
+P0228,Dog,6.0,1.3,Arthritis,Therapy,2023-01-10,292.61
+P0229,Rabbit,12.0,,Ear Infection,Diet Consultation,2023-03-08,365.45
+P0230,Bird,,1.6,Gastroenteritis,Check-up,2023-03-06,372.71
+P0231,Dog,1.0,31.0,Gastroenteritis,Diet Consultation,2023-10-22,307.64
+P0232,Cat,,,Hip Dysplasia,Check-up,2023-04-15,63.55
+P0233,Rabbit,1.0,17.3,Hip Dysplasia,Dental Cleaning,2023-11-01,352.16
+P0234,Bird,12.0,1.7,Obesity,,2023-03-03,410.58
+P0235,Bird,1.0,,Ear Infection,Dental Cleaning,2023-11-14,125.67
+P0236,Rabbit,18.0,5.2,Hip Dysplasia,Dental Cleaning,2023-04-13,166.62
+P0237,Bird,10.0,0.6,Diabetes,Vaccination,2023-07-19,401.2
+P0238,Rabbit,2.0,,Gastroenteritis,Dental Cleaning,2023-12-10,180.85
+P0239,Dog,,19.4,,Diet Consultation,2023-05-01,
+P0240,Dog,19.0,20.6,Gastroenteritis,Physiotherapy,2023-05-25,242.53
+P0241,Cat,12.0,1.8,Gastroenteritis,Therapy,2023-04-21,256.19
+P0242,Cat,8.0,,Gastroenteritis,Dental Cleaning,2023-11-25,226.98
+P0243,Cat,10.0,1.3,,Surgery,2023-11-21,58.3
+P0244,Dog,17.0,33.4,Obesity,Physiotherapy,2023-01-19,294.86
+P0245,Rabbit,1.0,11.8,,Check-up,2023-02-10,153.83
+P0246,Rabbit,16.0,,,Diet Consultation,2023-03-07,2.1
+P0247,Cat,18.0,2.2,Tumor,Therapy,2023-09-17,322.5
+P0248,Rabbit,,8.9,Dental Disease,Dental Cleaning,2023-08-26,205.96
+P0249,Rabbit,11.0,4.1,,Therapy,2023-02-15,264.44
+P0250,Dog,,16.7,Dental Disease,Vaccination,2023-11-24,92.87
+P0251,Bird,6.0,0.7,Tumor,Therapy,2023-02-26,158.08
+P0252,Bird,17.0,0.9,Arthritis,Dental Cleaning,2023-09-04,298.53
+P0253,Bird,2.0,0.7,Ear Infection,Dental Cleaning,2023-10-13,318.75
+P0254,Rabbit,16.0,,Diabetes,Vaccination,2023-08-01,412.11
+P0255,Rabbit,12.0,5.8,Gastroenteritis,Vaccination,2023-11-03,128.19
+P0256,Bird,,0.9,,Dental Cleaning,2023-11-14,400.08
+P0257,Dog,,17.5,Dental Disease,Medication,2023-01-10,354.78
+P0258,Bird,9.0,1.8,Diabetes,Surgery,2023-04-18,22.83
+P0259,Cat,2.0,4.7,Skin Infection,Physiotherapy,2023-06-22,359.82
+P0260,Bird,2.0,,Gastroenteritis,Check-up,2023-07-21,589.66
+P0261,Dog,9.0,9.8,Hip Dysplasia,Diet Consultation,2023-05-02,160.05
+P0262,Rabbit,0.0,,Allergy,Physiotherapy,2023-08-08,136.97
+P0263,Rabbit,17.0,1.7,Diabetes,Therapy,2023-09-21,
+P0264,Rabbit,0.0,,Arthritis,Diet Consultation,2023-05-07,163.24
+P0265,Dog,4.0,7.9,Hip Dysplasia,Surgery,2023-11-07,347.65
+P0266,Dog,10.0,13.3,Arthritis,Therapy,2023-04-05,185.44
+P0267,Cat,,4.4,Diabetes,,2023-04-19,243.38
+P0268,Cat,1.0,23.6,Allergy,Therapy,2023-03-26,137.62
+P0269,Dog,5.0,14.2,Obesity,Check-up,2023-03-18,277.29
+P0270,Rabbit,8.0,13.6,Dental Disease,Surgery,2023-11-28,143.99
+P0271,Dog,16.0,5.6,Dental Disease,Medication,2023-06-26,251.54
+P0272,Cat,14.0,1.0,Gastroenteritis,Therapy,2023-01-06,180.04
+P0273,Rabbit,8.0,13.0,Arthritis,Check-up,2023-12-14,189.65
+P0274,Dog,10.0,13.5,,Surgery,2023-08-15,173.46
+P0275,Rabbit,7.0,,Tumor,Surgery,2023-08-17,164.68
+P0276,Cat,4.0,4.8,Gastroenteritis,Medication,2023-12-26,304.21
+P0277,Rabbit,16.0,,Hip Dysplasia,Medication,2023-01-16,336.12
+P0278,Bird,7.0,1.4,Skin Infection,Surgery,2023-08-23,205.38
+P0279,Bird,12.0,1.5,Diabetes,Surgery,2023-06-20,365.25
+P0280,Cat,15.0,4.5,Diabetes,Check-up,2023-05-20,323.07
+P0281,Rabbit,9.0,8.1,Skin Infection,,2023-05-15,247.67
+P0282,Bird,4.0,1.8,Diabetes,Surgery,2023-11-21,105.57
+P0283,Cat,18.0,,Skin Infection,Physiotherapy,2023-04-14,295.83
+P0284,Rabbit,17.0,7.3,Hip Dysplasia,Diet Consultation,2023-07-24,260.06
+P0285,Dog,6.0,20.2,Ear Infection,Diet Consultation,2023-06-22,83.88
+P0286,Rabbit,1.0,9.2,Ear Infection,Check-up,2023-11-16,524.49
+P0287,Dog,5.0,24.5,Diabetes,Surgery,2023-02-14,164.55
+P0288,Dog,14.0,16.4,,Therapy,2023-03-18,261.28
+P0289,Dog,16.0,21.0,Gastroenteritis,,2023-09-11,346.53
+P0290,Dog,,11.2,Skin Infection,Therapy,2023-11-25,219.17
+P0291,Bird,14.0,1.9,,Medication,2023-05-20,116.16
+P0292,Rabbit,6.0,7.0,Ear Infection,Surgery,2023-10-17,370.49
+P0293,Cat,,,Dental Disease,Physiotherapy,2023-04-28,55.15
+P0294,Dog,16.0,11.7,Ear Infection,,2023-06-04,394.8
+P0295,Rabbit,1.0,4.9,Gastroenteritis,Vaccination,2023-07-28,91.48
+P0296,Dog,2.0,20.8,Gastroenteritis,Dental Cleaning,2023-01-06,297.53
+P0297,Rabbit,19.0,3.2,,Dental Cleaning,2023-06-12,28.83
+P0298,Dog,0.0,9.5,Dental Disease,Check-up,2023-10-22,374.52
+P0299,Bird,2.0,,Diabetes,Check-up,2023-12-21,60.6
+P0300,Dog,11.0,5.7,Diabetes,,2023-04-13,584.61
+P0301,Bird,13.0,0.5,Hip Dysplasia,Therapy,2023-03-12,
+P0302,Rabbit,11.0,,,Therapy,2023-10-20,387.38
+P0303,Dog,13.0,18.9,Arthritis,Check-up,2023-03-25,445.72
+P0304,Dog,8.0,27.0,,Surgery,2023-05-15,193.98
+P0305,Bird,,0.7,Hip Dysplasia,Physiotherapy,2023-07-09,14.62
+P0306,Cat,7.0,,Tumor,Surgery,2023-06-14,
+P0307,Dog,17.0,7.5,Obesity,Physiotherapy,2023-09-22,442.82
+P0308,Rabbit,5.0,12.2,Arthritis,Vaccination,2023-07-20,35.96
+P0309,Dog,5.0,17.1,Arthritis,Vaccination,2023-05-07,270.37
+P0310,Cat,8.0,4.0,Obesity,Dental Cleaning,2023-06-04,26.25
+P0311,Dog,19.0,24.5,Hip Dysplasia,Diet Consultation,2023-03-05,100.89
+P0312,Bird,0.0,1.1,Tumor,Vaccination,2023-09-18,
+P0313,Rabbit,19.0,,Diabetes,Diet Consultation,2023-12-02,7.81
+P0314,Bird,13.0,1.4,Arthritis,Physiotherapy,2023-02-28,33.9
+P0315,Rabbit,9.0,15.2,Gastroenteritis,Diet Consultation,2023-10-13,
+P0316,Bird,5.0,1.3,Obesity,Surgery,2023-07-01,30.06
+P0317,Rabbit,7.0,10.9,Dental Disease,Physiotherapy,2023-12-12,334.28
+P0318,Dog,6.0,20.1,Skin Infection,Surgery,2023-04-14,297.71
+P0319,Bird,,1.0,Tumor,Surgery,2023-07-28,496.48
+P0320,Rabbit,8.0,2.2,,Therapy,2023-04-11,17.82
+P0321,Cat,11.0,,Diabetes,,2023-11-04,127.42
+P0322,Cat,18.0,8.2,Ear Infection,Therapy,2023-12-27,113.94
+P0323,Cat,18.0,,Allergy,Surgery,2023-03-09,379.77
+P0324,Cat,2.0,2.6,Dental Disease,Check-up,2023-11-03,86.06
+P0325,Cat,,12.7,,Physiotherapy,2023-08-25,183.39
+P0326,Bird,19.0,1.3,,Therapy,2023-11-11,331.07
+P0327,Cat,17.0,10.1,Hip Dysplasia,Surgery,2023-08-15,233.67
+P0328,Rabbit,,12.4,Obesity,Medication,2023-06-17,435.31
+P0329,Dog,3.0,2.7,Obesity,Physiotherapy,2023-08-02,44.94
+P0330,Dog,,10.4,Ear Infection,Dental Cleaning,2023-02-21,8.42
+P0331,Dog,,2.6,Gastroenteritis,,2023-07-15,106.17
+P0332,Dog,15.0,18.2,Hip Dysplasia,Vaccination,2023-06-20,448.99
+P0333,Bird,1.0,,Tumor,Check-up,2023-01-15,391.35
+P0334,Dog,12.0,7.8,Ear Infection,Surgery,2023-09-21,179.07
+P0335,Cat,13.0,,Arthritis,Vaccination,2023-12-15,235.28
+P0336,Bird,5.0,1.3,Tumor,,2023-10-06,68.91
+P0337,Rabbit,4.0,,Ear Infection,Dental Cleaning,2023-07-14,366.16
+P0338,Rabbit,12.0,,,Medication,2023-11-21,84.96
+P0339,Rabbit,,,Diabetes,Therapy,2023-02-18,211.52
+P0340,Bird,8.0,0.9,Obesity,Dental Cleaning,2023-12-28,7.55
+P0341,Cat,10.0,,Ear Infection,Surgery,2023-10-22,26.89
+P0342,Cat,14.0,1.4,Ear Infection,Dental Cleaning,2023-11-23,511.51
+P0343,Bird,11.0,0.9,Dental Disease,Surgery,2023-05-18,226.09
+P0344,Bird,19.0,0.6,,Therapy,2023-03-22,363.42
+P0345,Dog,4.0,14.0,,Diet Consultation,2023-09-12,44.76
+P0346,Dog,4.0,16.5,Ear Infection,Dental Cleaning,2023-03-07,65.82
+P0347,Rabbit,19.0,11.3,Hip Dysplasia,Vaccination,2023-04-05,251.97
+P0348,Cat,14.0,,Diabetes,Dental Cleaning,2023-02-17,243.95
+P0349,Dog,,7.5,,Therapy,2023-10-05,296.64
+P0350,Bird,17.0,0.5,Dental Disease,Check-up,2023-03-27,91.88
+P0351,Cat,14.0,7.9,,Physiotherapy,2023-01-14,282.08
+P0352,Rabbit,10.0,,,Vaccination,2023-08-20,195.37
+P0353,Rabbit,7.0,20.0,,Physiotherapy,2023-04-18,256.01
+P0354,Cat,13.0,8.1,Obesity,Physiotherapy,2023-04-12,227.1
+P0355,Bird,13.0,0.8,Hip Dysplasia,Dental Cleaning,2023-07-17,312.76
+P0356,Bird,1.0,2.0,Dental Disease,Vaccination,2023-10-05,350.77
+P0357,Rabbit,12.0,2.0,Arthritis,Physiotherapy,2023-06-18,109.35
+P0358,Dog,5.0,12.4,,,2023-02-10,378.42
+P0359,Dog,17.0,5.2,Dental Disease,Dental Cleaning,2023-08-17,145.37
+P0360,Cat,0.0,10.0,Skin Infection,Surgery,2023-04-27,
+P0361,Bird,14.0,1.3,Ear Infection,Medication,2023-07-02,45.7
+P0362,Bird,14.0,1.4,Tumor,Therapy,2023-04-13,51.29
+P0363,Dog,16.0,,Ear Infection,Vaccination,2023-01-11,154.55
+P0364,Dog,7.0,14.7,,Therapy,2023-03-05,363.45
+P0365,Dog,2.0,27.3,Obesity,Physiotherapy,2023-12-27,293.36
+P0366,Cat,,4.5,,Physiotherapy,2023-08-20,213.44
+P0367,Dog,3.0,5.5,Diabetes,Medication,2023-05-07,407.64
+P0368,Cat,17.0,8.5,Tumor,,2023-07-04,226.91
+P0369,Rabbit,10.0,18.6,Allergy,Dental Cleaning,2023-02-02,162.1
+P0370,Cat,14.0,7.1,Skin Infection,Physiotherapy,2023-02-04,185.47
+P0371,Bird,13.0,1.0,Gastroenteritis,,2023-01-21,11.43
+P0372,Cat,19.0,8.2,,Check-up,2023-05-14,231.03
+P0373,Dog,7.0,22.3,Gastroenteritis,Therapy,2023-04-19,35.58
+P0374,Bird,16.0,2.0,Dental Disease,Surgery,2023-09-12,213.72
+P0375,Dog,11.0,25.5,Tumor,,2023-09-26,215.81
+P0376,Dog,16.0,4.3,Skin Infection,Physiotherapy,2023-01-21,38.95
+P0377,Bird,3.0,,Ear Infection,Dental Cleaning,2023-12-01,266.07
+P0378,Rabbit,11.0,5.0,Diabetes,Therapy,2023-04-24,135.59
+P0379,Dog,,17.0,Gastroenteritis,Therapy,2023-03-02,537.57
+P0380,Rabbit,8.0,,Tumor,Therapy,2023-11-06,271.63
+P0381,Bird,9.0,1.8,,Physiotherapy,2023-11-06,13.42
+P0382,Cat,17.0,,Diabetes,Physiotherapy,2023-01-10,303.9
+P0383,Cat,17.0,7.7,Arthritis,Vaccination,2023-01-11,114.84
+P0384,Rabbit,4.0,7.5,Tumor,Diet Consultation,2023-09-16,278.65
+P0385,Rabbit,,,Arthritis,Vaccination,2023-05-12,3.22
+P0386,Dog,2.0,16.2,,Therapy,2023-05-04,344.58
+P0387,Rabbit,13.0,21.7,Skin Infection,Diet Consultation,2023-12-15,117.94
+P0388,Bird,2.0,1.2,Ear Infection,Check-up,2023-08-23,224.54
+P0389,Bird,9.0,0.9,Ear Infection,,2023-05-26,346.46
+P0390,Dog,13.0,23.8,,Diet Consultation,2023-02-14,245.4
+P0391,Cat,6.0,,Tumor,Dental Cleaning,2023-06-04,87.7
+P0392,Dog,3.0,21.9,Ear Infection,Dental Cleaning,2023-05-15,112.75
+P0393,Bird,8.0,1.3,Dental Disease,Physiotherapy,2023-06-15,47.79
+P0394,Dog,1.0,10.8,,Therapy,2023-10-14,230.81
+P0395,Rabbit,7.0,6.6,,Medication,2023-02-22,325.03
+P0396,Bird,2.0,0.5,Ear Infection,,2023-12-22,178.47
+P0397,Cat,2.0,,Arthritis,Check-up,2023-10-22,160.93
+P0398,Bird,11.0,,Arthritis,Check-up,2023-02-08,459.03
+P0399,Rabbit,14.0,5.4,Ear Infection,Diet Consultation,2023-10-02,12.06
+P0400,Cat,,,,Physiotherapy,2023-06-12,385.41
+P0401,Bird,19.0,1.0,Diabetes,Check-up,2023-09-12,63.02
+P0402,Bird,,2.0,Ear Infection,Dental Cleaning,2023-04-04,157.67
+P0403,Dog,11.0,21.2,,Check-up,2023-08-17,26.72
+P0404,Bird,,,Tumor,Surgery,2023-05-25,120.88
+P0405,Rabbit,5.0,6.9,,Physiotherapy,2023-04-20,156.38
+P0406,Rabbit,8.0,0.7,,Physiotherapy,2023-04-04,75.43
+P0407,Cat,,8.1,Diabetes,Physiotherapy,2023-03-23,267.35
+P0408,Bird,4.0,0.8,Diabetes,Therapy,2023-11-12,120.42
+P0409,Dog,16.0,15.7,Tumor,,2023-05-10,185.17
+P0410,Cat,9.0,6.1,,Check-up,2023-06-17,248.25
+P0411,Cat,19.0,,Diabetes,Vaccination,2023-03-08,
+P0412,Bird,1.0,0.5,Arthritis,Therapy,2023-09-19,213.1
+P0413,Rabbit,1.0,8.4,Hip Dysplasia,,2023-03-20,196.25
+P0414,Dog,,21.5,Diabetes,Dental Cleaning,2023-07-23,122.56
+P0415,Bird,5.0,,Tumor,Diet Consultation,2023-07-27,339.77
+P0416,Dog,7.0,22.6,Dental Disease,Therapy,2023-11-03,308.26
+P0417,Bird,12.0,1.1,Hip Dysplasia,,2023-06-05,189.43
+P0418,Cat,13.0,7.9,Dental Disease,Diet Consultation,2023-09-28,143.93
+P0419,Dog,10.0,20.1,Diabetes,,2023-03-10,429.61
+P0420,Cat,18.0,13.8,Dental Disease,Therapy,2023-12-08,0.32
+P0421,Rabbit,10.0,6.2,Tumor,Dental Cleaning,2023-02-09,296.89
+P0422,Cat,,15.0,,,2023-05-05,115.45
+P0423,Rabbit,13.0,0.7,Gastroenteritis,,2023-02-17,245.37
+P0424,Cat,3.0,,Gastroenteritis,Check-up,2023-03-22,8.84
+P0425,Rabbit,19.0,9.0,Gastroenteritis,Medication,2023-01-03,273.6
+P0426,Dog,17.0,6.8,,Dental Cleaning,2023-11-07,5.03
+P0427,Bird,,1.7,Gastroenteritis,Medication,2023-08-21,166.29
+P0428,Rabbit,,2.1,,Dental Cleaning,2023-08-08,43.03
+P0429,Bird,,1.5,Obesity,Physiotherapy,2023-02-23,216.33
+P0430,Dog,,6.1,Dental Disease,Physiotherapy,2023-07-16,262.44
+P0431,Bird,4.0,1.9,Allergy,Therapy,2023-10-05,361.43
+P0432,Rabbit,2.0,10.5,,Therapy,2023-12-28,3.79
+P0433,Rabbit,,0.9,Skin Infection,Check-up,2023-06-17,283.07
+P0434,Dog,2.0,4.0,Ear Infection,Vaccination,2023-08-04,42.03
+P0435,Rabbit,,6.3,Hip Dysplasia,Vaccination,2023-03-04,90.4
+P0436,Dog,1.0,2.2,Obesity,Diet Consultation,2023-10-14,138.99
+P0437,Cat,7.0,21.3,Dental Disease,Therapy,2023-10-24,109.14
+P0438,Rabbit,,14.4,Allergy,Check-up,2023-08-17,434.23
+P0439,Bird,12.0,,Hip Dysplasia,Dental Cleaning,2023-08-01,213.3
+P0440,Dog,12.0,28.8,Skin Infection,,2023-08-08,363.96
+P0441,Cat,16.0,8.6,Gastroenteritis,Therapy,2023-01-02,2.07
+P0442,Rabbit,14.0,,Hip Dysplasia,Physiotherapy,2023-05-18,38.5
+P0443,Dog,,0.8,Diabetes,Diet Consultation,2023-03-09,
+P0444,Rabbit,15.0,11.0,Skin Infection,Therapy,2023-01-13,291.07
+P0445,Dog,17.0,25.5,Gastroenteritis,,2023-04-12,168.3
+P0446,Rabbit,,3.1,Diabetes,Diet Consultation,2023-09-15,103.47
+P0447,Rabbit,,11.4,Gastroenteritis,Surgery,2023-03-04,324.74
+P0448,Bird,1.0,,Ear Infection,Therapy,2023-09-12,195.85
+P0449,Cat,7.0,,Allergy,,2023-07-17,230.26
+P0450,Dog,13.0,31.4,Arthritis,Medication,2023-03-23,34.52
+P0451,Rabbit,19.0,2.2,Hip Dysplasia,,2023-08-05,158.48
+P0452,Cat,,10.9,Ear Infection,Therapy,2023-03-13,112.54
+P0453,Rabbit,16.0,6.4,Gastroenteritis,Therapy,2023-09-27,48.89
+P0454,Bird,,2.0,,Dental Cleaning,2023-08-27,255.87
+P0455,Dog,10.0,27.8,Ear Infection,Therapy,2023-11-04,368.72
+P0456,Bird,12.0,,Gastroenteritis,Dental Cleaning,2023-12-28,80.09
+P0457,Dog,14.0,5.4,Gastroenteritis,Physiotherapy,2023-05-21,194.04
+P0458,Cat,,22.4,,Medication,2023-10-16,361.31
+P0459,Cat,,18.5,Tumor,Diet Consultation,2023-03-27,293.53
+P0460,Cat,14.0,2.6,Arthritis,Surgery,2023-04-01,352.63
+P0461,Bird,15.0,1.6,Ear Infection,Diet Consultation,2023-03-14,280.87
+P0462,Cat,2.0,6.7,Skin Infection,,2023-10-16,393.2
+P0463,Dog,9.0,11.6,,Check-up,2023-09-07,313.88
+P0464,Rabbit,1.0,8.7,,Physiotherapy,2023-09-13,379.49
+P0465,Rabbit,,,Dental Disease,Physiotherapy,2023-09-11,234.64
+P0466,Rabbit,13.0,5.9,,Dental Cleaning,2023-10-16,17.48
+P0467,Cat,,,Allergy,Dental Cleaning,2023-09-10,234.73
+P0468,Cat,14.0,,Obesity,Dental Cleaning,2023-12-07,459.04
+P0469,Bird,2.0,,Ear Infection,Physiotherapy,2023-06-18,140.05
+P0470,Rabbit,,,Obesity,Surgery,2023-10-22,389.39
+P0471,Bird,19.0,0.9,Skin Infection,Therapy,2023-03-10,204.36
+P0472,Dog,4.0,23.6,Obesity,Surgery,2023-06-15,431.32
+P0473,Rabbit,1.0,20.0,,Physiotherapy,2023-04-07,
+P0474,Rabbit,18.0,16.5,Tumor,Dental Cleaning,2023-03-04,77.27
+P0475,Cat,12.0,4.0,Allergy,Medication,2023-11-17,282.99
+P0476,Cat,12.0,,,Vaccination,2023-01-04,135.23
+P0477,Bird,17.0,0.8,Ear Infection,Physiotherapy,2023-02-22,67.09
+P0478,Cat,14.0,,Arthritis,,2023-03-14,478.11
+P0479,Bird,15.0,,Hip Dysplasia,Vaccination,2023-05-11,327.51
+P0480,Rabbit,4.0,11.0,,Medication,2023-02-21,126.67
+P0481,Cat,12.0,,Tumor,Medication,2023-03-14,307.7
+P0482,Cat,5.0,17.4,Arthritis,Diet Consultation,2023-08-06,84.39
+P0483,Rabbit,9.0,5.4,Arthritis,Medication,2023-05-19,138.29
+P0484,Dog,4.0,19.2,Ear Infection,Dental Cleaning,2023-08-21,207.12
+P0485,Bird,3.0,,Dental Disease,,2023-08-09,80.08
+P0486,Cat,6.0,1.8,Diabetes,Therapy,2023-03-24,50.1
+P0487,Bird,3.0,,,Dental Cleaning,2023-12-06,332.95
+P0488,Dog,15.0,9.5,,Therapy,2023-05-19,154.43
+P0489,Cat,11.0,16.5,Dental Disease,Diet Consultation,2023-07-17,
+P0490,Rabbit,17.0,2.6,Diabetes,Diet Consultation,2023-11-04,163.64
+P0491,Cat,14.0,11.1,Dental Disease,Physiotherapy,2023-06-08,210.05
+P0492,Dog,9.0,19.1,Obesity,Diet Consultation,2023-04-15,273.1
+P0493,Rabbit,4.0,8.4,Ear Infection,Dental Cleaning,2023-10-24,33.44
+P0494,Dog,18.0,19.5,Obesity,Therapy,2023-12-08,246.06
+P0495,Dog,8.0,13.9,,Surgery,2023-08-10,76.53
+P0496,Cat,0.0,2.7,Skin Infection,,2023-12-25,47.63
+P0497,Rabbit,10.0,4.5,,Surgery,2023-11-10,226.47
+P0498,Rabbit,5.0,1.1,Gastroenteritis,Vaccination,2023-04-05,282.7
+P0499,Bird,4.0,1.9,Dental Disease,Physiotherapy,2023-12-20,134.72
+P0500,Rabbit,1.0,17.1,Skin Infection,,2023-08-25,160.86
+P0501,Cat,14.0,15.2,Allergy,Surgery,2023-09-15,208.55
+P0502,Rabbit,18.0,,Diabetes,Surgery,2023-01-27,290.37
+P0503,Cat,19.0,16.7,Gastroenteritis,,2023-03-06,241.2
+P0504,Rabbit,14.0,6.6,Tumor,Physiotherapy,2023-02-22,162.15
+P0505,Cat,13.0,1.7,,Physiotherapy,2023-02-17,34.48
+P0506,Bird,16.0,,Arthritis,Physiotherapy,2023-03-17,190.84
+P0507,Bird,0.0,0.8,Hip Dysplasia,Medication,2023-09-15,89.62
+P0508,Rabbit,6.0,12.3,,Medication,2023-07-09,275.81
+P0509,Dog,18.0,4.1,,Vaccination,2023-10-03,160.58
+P0510,Dog,7.0,22.4,Skin Infection,Therapy,2023-12-03,99.78
+P0511,Dog,,23.4,Diabetes,Physiotherapy,2023-01-10,7.08
+P0512,Bird,13.0,1.1,Dental Disease,Check-up,2023-11-24,272.71
+P0513,Bird,6.0,1.3,Ear Infection,Diet Consultation,2023-08-28,73.05
+P0514,Bird,17.0,,Skin Infection,Surgery,2023-11-22,
+P0515,Cat,7.0,5.5,,Therapy,2023-02-06,244.7
+P0516,Bird,3.0,1.6,Tumor,Check-up,2023-12-08,314.14
+P0517,Dog,18.0,16.5,Arthritis,Dental Cleaning,2023-08-22,236.19
+P0518,Bird,15.0,2.0,Tumor,Diet Consultation,2023-04-08,41.34
+P0519,Bird,1.0,,Ear Infection,Check-up,2023-05-07,193.85
+P0520,Dog,,18.1,Arthritis,Diet Consultation,2023-10-25,84.14
+P0521,Dog,3.0,19.6,Allergy,Vaccination,2023-02-04,248.87
+P0522,Dog,4.0,18.9,Hip Dysplasia,Medication,2023-04-24,164.69
+P0523,Dog,11.0,4.4,Skin Infection,Physiotherapy,2023-04-18,362.48
+P0524,Cat,,,Arthritis,Check-up,2023-09-10,348.9
+P0525,Cat,,,,Therapy,2023-10-20,446.16
+P0526,Rabbit,18.0,16.9,Allergy,Dental Cleaning,2023-03-22,151.65
+P0527,Cat,15.0,16.7,Skin Infection,Dental Cleaning,2023-05-02,277.02
+P0528,Cat,14.0,,,Diet Consultation,2023-09-16,244.6
+P0529,Dog,14.0,17.3,Ear Infection,Diet Consultation,2023-09-11,161.16
+P0530,Bird,7.0,,Skin Infection,Check-up,2023-05-13,166.36
+P0531,Cat,14.0,,Tumor,Physiotherapy,2023-04-28,
+P0532,Cat,,,Obesity,Check-up,2023-08-02,418.69
+P0533,Bird,16.0,1.6,Skin Infection,,2023-09-05,122.65
+P0534,Bird,12.0,1.8,Allergy,Dental Cleaning,2023-04-11,
+P0535,Dog,1.0,17.8,Hip Dysplasia,Therapy,2023-02-18,55.73
+P0536,Cat,7.0,,Arthritis,Dental Cleaning,2023-07-22,164.26
+P0537,Dog,19.0,6.9,Diabetes,Vaccination,2023-10-24,
+P0538,Cat,5.0,1.6,Hip Dysplasia,Vaccination,2023-06-10,306.42
+P0539,Dog,18.0,11.5,Allergy,Vaccination,2023-12-04,281.13
+P0540,Bird,12.0,1.9,Allergy,Vaccination,2023-07-08,332.71
+P0541,Rabbit,,21.6,Obesity,Diet Consultation,2023-08-18,279.8
+P0542,Rabbit,5.0,,Obesity,Dental Cleaning,2023-06-17,279.25
+P0543,Bird,,0.7,Hip Dysplasia,Surgery,2023-12-16,
+P0544,Rabbit,3.0,,Allergy,Therapy,2023-06-14,20.28
+P0545,Dog,,4.8,Gastroenteritis,Vaccination,2023-12-05,385.79
+P0546,Dog,11.0,15.9,Obesity,,2023-10-19,210.51
+P0547,Bird,19.0,0.5,Obesity,Check-up,2023-04-11,374.28
+P0548,Cat,,11.8,Skin Infection,Vaccination,2023-08-18,275.16
+P0549,Rabbit,0.0,,Obesity,Physiotherapy,2023-12-21,183.51
+P0550,Bird,19.0,0.9,Hip Dysplasia,Check-up,2023-12-26,441.84
+P0551,Rabbit,18.0,14.5,Dental Disease,Check-up,2023-12-18,211.32
+P0552,Bird,,1.6,Dental Disease,,2023-11-02,40.29
+P0553,Dog,11.0,16.0,Diabetes,Medication,2023-01-14,282.72
+P0554,Cat,0.0,,,Vaccination,2023-02-23,32.31
+P0555,Cat,17.0,0.5,Arthritis,Vaccination,2023-09-15,
+P0556,Rabbit,7.0,2.5,Arthritis,Physiotherapy,2023-11-16,38.92
+P0557,Dog,12.0,3.7,Arthritis,,2023-09-14,187.53
+P0558,Dog,12.0,34.9,Arthritis,,2023-12-09,94.55
+P0559,Rabbit,16.0,12.7,Arthritis,,2023-12-22,113.37
+P0560,Bird,9.0,0.7,Dental Disease,Surgery,2023-02-17,175.98
+P0561,Cat,8.0,9.4,Allergy,Vaccination,2023-10-17,219.82
+P0562,Rabbit,,14.6,Ear Infection,Dental Cleaning,2023-07-03,197.22
+P0563,Rabbit,18.0,12.6,Skin Infection,Physiotherapy,2023-10-08,313.72
+P0564,Cat,7.0,3.3,Obesity,Surgery,2023-11-28,70.47
+P0565,Dog,,2.3,Diabetes,Diet Consultation,2023-07-13,326.22
+P0566,Bird,6.0,1.9,Arthritis,Medication,2023-12-06,25.18
+P0567,Dog,13.0,16.2,Hip Dysplasia,Diet Consultation,2023-11-26,107.78
+P0568,Rabbit,1.0,12.6,Gastroenteritis,Surgery,2023-09-02,288.85
+P0569,Cat,4.0,2.3,Allergy,Physiotherapy,2023-05-02,51.92
+P0570,Dog,0.0,1.6,,Dental Cleaning,2023-09-19,65.57
+P0571,Dog,1.0,24.8,Dental Disease,Therapy,2023-01-07,373.56
+P0572,Cat,10.0,4.4,,Diet Consultation,2023-02-10,582.02
+P0573,Cat,8.0,11.6,Gastroenteritis,Vaccination,2023-10-27,243.07
+P0574,Bird,,1.8,,,2023-06-13,208.75
+P0575,Cat,16.0,,,Surgery,2023-09-24,247.54
+P0576,Rabbit,,19.2,Arthritis,Surgery,2023-07-08,117.69
+P0577,Dog,16.0,15.7,Ear Infection,Diet Consultation,2023-06-01,173.8
+P0578,Rabbit,5.0,,Hip Dysplasia,Physiotherapy,2023-04-12,270.65
+P0579,Bird,2.0,,Skin Infection,Check-up,2023-11-19,326.84
+P0580,Bird,5.0,1.6,Diabetes,Dental Cleaning,2023-04-23,408.87
+P0581,Dog,11.0,13.0,Diabetes,Dental Cleaning,2023-03-13,179.85
+P0582,Cat,15.0,10.5,,Diet Consultation,2023-06-12,188.26
+P0583,Dog,1.0,12.2,Diabetes,Medication,2023-05-15,162.01
+P0584,Rabbit,0.0,,Obesity,Surgery,2023-03-03,
+P0585,Cat,17.0,0.6,Skin Infection,Physiotherapy,2023-09-18,11.9
+P0586,Bird,10.0,0.7,Diabetes,Medication,2023-02-12,382.0
+P0587,Dog,4.0,24.8,Gastroenteritis,Therapy,2023-07-01,216.68
+P0588,Rabbit,5.0,19.1,Skin Infection,Diet Consultation,2023-02-24,130.69
+P0589,Cat,4.0,,Gastroenteritis,,2023-03-22,214.65
+P0590,Bird,13.0,,Dental Disease,Check-up,2023-05-10,
+P0591,Rabbit,14.0,1.1,Hip Dysplasia,Check-up,2023-02-06,35.58
+P0592,Bird,4.0,1.9,Obesity,Diet Consultation,2023-05-16,194.6
+P0593,Dog,,16.0,Ear Infection,Dental Cleaning,2023-04-24,197.87
+P0594,Bird,12.0,1.3,Gastroenteritis,Vaccination,2023-08-04,197.25
+P0595,Cat,12.0,7.2,Obesity,Medication,2023-07-11,295.71
+P0596,Bird,9.0,1.7,Ear Infection,Physiotherapy,2023-06-14,275.13
+P0597,Cat,16.0,20.3,Obesity,Therapy,2023-10-23,212.8
+P0598,Cat,10.0,,Hip Dysplasia,Therapy,2023-03-13,312.19
+P0599,Rabbit,2.0,6.6,Obesity,Physiotherapy,2023-10-26,146.31
+P0600,Cat,16.0,,Ear Infection,Diet Consultation,2023-05-27,359.1
+P0601,Bird,18.0,0.5,Ear Infection,Surgery,2023-10-07,130.2
+P0602,Cat,3.0,3.2,,,2023-01-24,449.67
+P0603,Bird,14.0,1.8,,Vaccination,2023-08-26,434.29
+P0604,Rabbit,10.0,,,Surgery,2023-07-22,211.35
+P0605,Bird,8.0,1.8,Dental Disease,Dental Cleaning,2023-04-09,256.57
+P0606,Cat,5.0,3.8,,Diet Consultation,2023-07-03,65.95
+P0607,Bird,0.0,1.2,Gastroenteritis,Physiotherapy,2023-10-13,389.29
+P0608,Bird,10.0,1.8,Tumor,Medication,2023-06-23,404.4
+P0609,Dog,17.0,8.3,Diabetes,Vaccination,2023-11-22,516.55
+P0610,Rabbit,6.0,,Dental Disease,Medication,2023-10-21,374.87
+P0611,Bird,18.0,0.7,Ear Infection,Diet Consultation,2023-02-01,169.33
+P0612,Dog,4.0,33.7,Obesity,Vaccination,2023-09-24,228.84
+P0613,Cat,15.0,21.9,Hip Dysplasia,Therapy,2023-07-15,269.01
+P0614,Cat,11.0,,Ear Infection,Medication,2023-08-04,329.36
+P0615,Rabbit,14.0,13.7,Skin Infection,Surgery,2023-02-27,15.93
+P0616,Cat,12.0,10.4,Ear Infection,Dental Cleaning,2023-06-15,313.14
+P0617,Cat,0.0,6.8,Tumor,Physiotherapy,2023-06-16,360.52
+P0618,Dog,8.0,7.3,Hip Dysplasia,Physiotherapy,2023-06-03,346.26
+P0619,Rabbit,5.0,7.8,Arthritis,Surgery,2023-01-28,78.38
+P0620,Rabbit,12.0,4.2,,Surgery,2023-11-26,291.29
+P0621,Cat,7.0,2.9,,Vaccination,2023-09-06,42.68
+P0622,Cat,12.0,,Ear Infection,,2023-07-15,295.44
+P0623,Cat,2.0,10.6,Skin Infection,Check-up,2023-03-21,170.93
+P0624,Bird,,1.7,Skin Infection,Medication,2023-12-20,
+P0625,Cat,18.0,6.1,Hip Dysplasia,Diet Consultation,2023-07-01,404.1
+P0626,Cat,16.0,,Allergy,Dental Cleaning,2023-12-26,301.69
+P0627,Dog,3.0,18.2,Gastroenteritis,Surgery,2023-09-06,102.66
+P0628,Rabbit,13.0,5.5,Ear Infection,Vaccination,2023-08-04,34.74
+P0629,Rabbit,14.0,2.3,,Physiotherapy,2023-09-21,359.03
+P0630,Rabbit,,26.1,Gastroenteritis,Diet Consultation,2023-10-13,95.68
+P0631,Dog,1.0,27.5,Ear Infection,Therapy,2023-08-20,250.29
+P0632,Cat,11.0,,,Dental Cleaning,2023-10-19,69.46
+P0633,Dog,17.0,13.3,,Check-up,2023-06-04,343.26
+P0634,Cat,17.0,,Obesity,Surgery,2023-03-12,111.01
+P0635,Cat,10.0,0.6,Tumor,Diet Consultation,2023-07-20,174.58
+P0636,Cat,1.0,5.2,Gastroenteritis,Diet Consultation,2023-07-06,354.11
+P0637,Bird,12.0,0.9,,,2023-12-21,100.44
+P0638,Cat,11.0,,Tumor,Check-up,2023-08-10,
+P0639,Cat,0.0,,Dental Disease,Therapy,2023-08-20,261.57
+P0640,Dog,10.0,16.5,Ear Infection,Medication,2023-08-05,210.26
+P0641,Cat,16.0,7.2,Skin Infection,,2023-09-21,223.66
+P0642,Bird,19.0,1.6,Skin Infection,Physiotherapy,2023-07-23,134.28
+P0643,Bird,15.0,0.8,Hip Dysplasia,Check-up,2023-02-19,220.97
+P0644,Dog,2.0,3.5,Allergy,Dental Cleaning,2023-01-09,168.58
+P0645,Cat,11.0,5.8,Tumor,Dental Cleaning,2023-03-25,1.09
+P0646,Bird,1.0,0.5,Gastroenteritis,Physiotherapy,2023-09-17,144.41
+P0647,Dog,0.0,31.8,Gastroenteritis,Surgery,2023-05-25,
+P0648,Rabbit,8.0,10.0,Tumor,Medication,2023-12-15,256.46
+P0649,Cat,5.0,,Skin Infection,Surgery,2023-12-27,21.59
+P0650,Cat,,17.1,Obesity,Medication,2023-08-09,
+P0651,Rabbit,12.0,5.2,Diabetes,Physiotherapy,2023-02-25,61.58
+P0652,Cat,13.0,5.0,Allergy,Therapy,2023-12-20,243.76
+P0653,Bird,16.0,,Dental Disease,Check-up,2023-04-27,172.52
+P0654,Cat,2.0,10.2,Arthritis,Therapy,2023-09-09,161.48
+P0655,Cat,10.0,15.3,Ear Infection,Dental Cleaning,2023-05-19,117.36
+P0656,Rabbit,15.0,5.0,Tumor,Surgery,2023-03-25,432.14
+P0657,Bird,,,Arthritis,Dental Cleaning,2023-11-05,300.93
+P0658,Cat,5.0,8.7,Allergy,Check-up,2023-12-11,83.17
+P0659,Cat,,,,Diet Consultation,2023-08-05,124.23
+P0660,Rabbit,15.0,6.0,,Diet Consultation,2023-07-15,482.35
+P0661,Dog,3.0,21.3,,Surgery,2023-07-17,226.0
+P0662,Rabbit,7.0,6.0,,Therapy,2023-08-16,129.22
+P0663,Rabbit,8.0,0.8,Gastroenteritis,Medication,2023-12-03,222.52
+P0664,Bird,,1.4,,Therapy,2023-02-26,295.36
+P0665,Bird,7.0,1.9,Allergy,Diet Consultation,2023-04-16,280.56
+P0666,Rabbit,8.0,4.4,Ear Infection,Dental Cleaning,2023-06-18,299.37
+P0667,Cat,9.0,,Gastroenteritis,Physiotherapy,2023-06-22,29.43
+P0668,Dog,7.0,7.5,Arthritis,Surgery,2023-11-26,5.28
+P0669,Bird,10.0,1.6,Arthritis,Surgery,2023-03-15,436.72
+P0670,Bird,5.0,0.7,Arthritis,Diet Consultation,2023-04-23,348.1
+P0671,Cat,17.0,3.4,,Dental Cleaning,2023-03-28,267.44
+P0672,Rabbit,8.0,5.6,Diabetes,Therapy,2023-05-03,36.64
+P0673,Rabbit,1.0,2.8,,Check-up,2023-01-13,200.57
+P0674,Rabbit,4.0,,,Vaccination,2023-07-21,298.2
+P0675,Dog,13.0,16.5,,Surgery,2023-01-07,
+P0676,Bird,5.0,0.9,Diabetes,Check-up,2023-10-08,430.02
+P0677,Bird,10.0,1.4,Arthritis,Medication,2023-12-11,156.35
+P0678,Dog,8.0,19.8,Skin Infection,Check-up,2023-08-03,207.19
+P0679,Cat,17.0,6.7,Skin Infection,Surgery,2023-12-26,92.5
+P0680,Dog,5.0,16.3,Diabetes,Therapy,2023-06-10,282.31
+P0681,Cat,1.0,,Skin Infection,Check-up,2023-11-22,74.51
+P0682,Cat,1.0,16.7,Diabetes,,2023-10-01,103.78
+P0683,Cat,3.0,7.9,Hip Dysplasia,Therapy,2023-12-07,307.96
+P0684,Cat,19.0,,Skin Infection,Physiotherapy,2023-04-03,422.62
+P0685,Dog,8.0,17.8,Dental Disease,Surgery,2023-10-24,269.52
+P0686,Bird,9.0,1.6,Ear Infection,Diet Consultation,2023-06-26,
+P0687,Cat,9.0,11.1,Allergy,Dental Cleaning,2023-11-03,132.19
+P0688,Cat,,0.5,Tumor,Dental Cleaning,2023-12-01,190.08
+P0689,Rabbit,12.0,3.9,Allergy,,2023-10-17,292.25
+P0690,Cat,6.0,,,Diet Consultation,2023-05-21,40.49
+P0691,Dog,2.0,14.3,Allergy,Physiotherapy,2023-07-04,99.16
+P0692,Cat,16.0,,Hip Dysplasia,Surgery,2023-09-01,318.59
+P0693,Rabbit,17.0,,Ear Infection,Check-up,2023-07-28,309.61
+P0694,Bird,12.0,2.0,Ear Infection,,2023-11-06,79.4
+P0695,Bird,,1.7,Diabetes,Medication,2023-10-03,311.91
+P0696,Dog,3.0,2.7,Obesity,Vaccination,2023-01-02,497.51
+P0697,Bird,2.0,0.7,Tumor,Dental Cleaning,2023-11-23,172.73
+P0698,Bird,,1.9,Skin Infection,Diet Consultation,2023-02-21,226.0
+P0699,Cat,,9.3,Obesity,Surgery,2023-05-03,280.85
+P0700,Cat,17.0,7.3,Dental Disease,,2023-06-13,1.17

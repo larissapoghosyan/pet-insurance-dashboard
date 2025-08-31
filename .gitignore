@@ -1,0 +1,22 @@
+# Ignore local folders
+db/
+scripts/
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Virtual environments
+.env/
+venv/
+
+# Streamlit stuff
+.streamlit/
+
+# IDE configs
+.vscode/
+.idea/
+
